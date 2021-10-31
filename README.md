@@ -10,19 +10,19 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ x] The list of map titles is displayed.
-* [ x] After tapping on a map title, the associated markers in the map are shown.
-* [ x] The user is able to create a new map.
+* [x] The list of map titles is displayed.
+* [x] After tapping on a map title, the associated markers in the map are shown.
+* [x] The user is able to create a new map.
 
 The following **extensions** are implemented:
 
-* [ x] Added count of markers to list of maps
+* [x] Added count of markers to list of maps
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vETlbps" data-context="false" ><a href="//imgur.com/a/vETlbps"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
